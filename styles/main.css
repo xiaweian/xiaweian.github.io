@@ -903,7 +903,7 @@ body {
 }
 .id_card .id_card-avatar {
   display: block;
-  padding: 15px;
+  padding: 0px;
   width: 100px;
   height: 100px;
   border: 1px solid #ddd;
